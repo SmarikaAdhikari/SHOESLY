@@ -60,5 +60,6 @@ Application Snapshots
 <img width="341" alt="Screenshot 2024-06-10 at 15 19 31" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/4f04270d-03cd-4c4f-b007-c249408469a3">
 <img width="341" alt="Screenshot 2024-06-10 at 15 20 01" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/6f9950c9-6a1b-4dab-8917-495166cdae19">
 <img width="341" alt="Screenshot 2024-06-10 at 15 22 00" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/23b6925f-e79f-4ac4-9516-c439a8404a57">
+<img width="341" alt="Screenshot 2024-06-10 at 15 33 03" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/054ed176-1dbe-433a-addb-c91840218ae9">
 <img width="341" alt="Screenshot 2024-06-10 at 15 22 31" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/f8781a2b-3849-47a3-b282-b01aad99aa40">
 
