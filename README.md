@@ -52,7 +52,9 @@ UI Enhancements: Made several UI improvements for a better user experience, incl
 Application Snapshots
 
 <img width="321" alt="Screenshot 2024-06-09 at 20 29 13" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/cb29ee43-7205-411d-a7aa-05371b060c91">
+
 <img width="341" alt="Screenshot 2024-06-10 at 18 45 56" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/550b94e2-b814-4d83-ba86-639605df392b">
+
 <img width="341" alt="Screenshot 2024-06-10 at 18 46 46" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/427087a7-a556-4f68-8228-fbeda115955f">
 <img width="341" alt="Screenshot 2024-06-10 at 18 48 14" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/a639e8ee-8109-4cde-9ff1-b3774ac561d3">
 <img width="341" alt="Screenshot 2024-06-10 at 18 46 20" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/03d1baa2-e127-44e9-8755-7c5d39cfa983">
