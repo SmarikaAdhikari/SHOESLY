@@ -3,8 +3,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get/get.dart';
 import 'package:shoesly/Constants/theme.dart';
 import 'package:shoesly/Screens/loginpage.dart';
-
-
 import 'Data/Services/product_services.dart';
 
 void main() {
