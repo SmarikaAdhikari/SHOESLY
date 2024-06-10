@@ -52,12 +52,12 @@ UI Enhancements: Made several UI improvements for a better user experience, incl
 Application Snapshots
 
 <img width="321" alt="Screenshot 2024-06-09 at 20 29 13" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/cb29ee43-7205-411d-a7aa-05371b060c91">
-<img width="321" alt="Screenshot 2024-06-09 at 20 29 52" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/5bc4b574-2218-4f36-a52b-222c1c3cd483">
-<img width="341" alt="Screenshot 2024-06-10 at 15 22 12" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/cc1d3048-5c15-477a-80aa-15d2064c856f">
-<img width="341" alt="Screenshot 2024-06-10 at 15 22 20" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/e2bdcea0-20a9-4e64-8605-e150e901a5df">
-<img width="341" alt="Screenshot 2024-06-10 at 15 18 58" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/abcada2d-d845-4795-a92d-464170516d86">
-<img width="341" alt="Screenshot 2024-06-10 at 15 19 09" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/8e586311-df8f-4215-ab19-86e8e5e8ebca">
-<img width="341" alt="Screenshot 2024-06-10 at 15 19 31" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/4f04270d-03cd-4c4f-b007-c249408469a3">
+<img width="341" alt="Screenshot 2024-06-10 at 18 45 56" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/550b94e2-b814-4d83-ba86-639605df392b">
+<img width="341" alt="Screenshot 2024-06-10 at 18 46 46" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/427087a7-a556-4f68-8228-fbeda115955f">
+<img width="341" alt="Screenshot 2024-06-10 at 18 48 14" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/a639e8ee-8109-4cde-9ff1-b3774ac561d3">
+<img width="341" alt="Screenshot 2024-06-10 at 18 46 20" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/03d1baa2-e127-44e9-8755-7c5d39cfa983">
+<img width="341" alt="Screenshot 2024-06-10 at 18 46 26" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/9528eb45-1066-4ad1-91c5-c9e37b7e9179">
+<img width="341" alt="Screenshot 2024-06-10 at 18 55 22" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/ee192bbb-99e5-4b30-9ad5-24e248ab8b17">
 <img width="341" alt="Screenshot 2024-06-10 at 15 20 01" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/6f9950c9-6a1b-4dab-8917-495166cdae19">
 <img width="341" alt="Screenshot 2024-06-10 at 15 22 00" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/23b6925f-e79f-4ac4-9516-c439a8404a57">
 <img width="341" alt="Screenshot 2024-06-10 at 15 33 03" src="https://github.com/SmarikaAdhikari/SHOESLY/assets/108568838/054ed176-1dbe-433a-addb-c91840218ae9">
