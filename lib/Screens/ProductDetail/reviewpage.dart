@@ -18,7 +18,7 @@ class _ReviewPageState extends State<ReviewPage> {
       appBar: AppBar(
         title: const Center(
           child: Text(
-            'Reviews(1045)',
+            'Reviews',
             style: Apptheme.titlebar,
           ),
         ),

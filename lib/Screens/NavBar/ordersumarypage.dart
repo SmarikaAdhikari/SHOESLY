@@ -119,6 +119,7 @@ class _OrderSummaryPageState extends ConsumerState<OrderSummaryPage> {
                       itemCount: cart.length,
                       itemBuilder: (context, index) => orderdetail(
                         cart[index],
+                        ref,
                       ),
                     ),
                   ),
